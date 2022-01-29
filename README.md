@@ -32,6 +32,9 @@
 
 ## Azure Resources
 
+<details>
+<summary>Click to expand!</summary>
+  
 - Azure resource group
 
 ![resource group](docs/img/resourcegroup.png)
@@ -50,3 +53,5 @@
 ![static web app](docs/img/static-web-app.png)
 
 - Visual studio code
+
+</details>
